@@ -22,12 +22,19 @@ A modern, full-stack web application built with **Laravel 12**, **React**, and *
 -   **State Management:** Inertia Shared Props & React Hooks
 
 
-![Role Management](role_list.png)
-*Role Management Dashboard*
+![Permission Management](permissions.PNG)
+*Permission Management Page*
 
-![Permission Assignment](permissions.png)
-*Assigning Permissions to a Role*
 
+![Role Management](roles.PNG)
+*Role Management Page*
+![Role Edit](EditRole.PNG)
+*Role Edit Page*
+
+![User Management](users.PNG)
+*User Management Page*
+![User Edit](edituser.PNG)
+*Edit User Page*
 
 ## 💻 Installation & Local Setup
 
