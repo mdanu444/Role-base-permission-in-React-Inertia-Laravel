@@ -21,6 +21,14 @@ A modern, full-stack web application built with **Laravel 12**, **React**, and *
 -   **Database:** MySQL 
 -   **State Management:** Inertia Shared Props & React Hooks
 
+
+![Role Management](role_list.png)
+*Role Management Dashboard*
+
+![Permission Assignment](permissions.png)
+*Assigning Permissions to a Role*
+
+
 ## 💻 Installation & Local Setup
 
 Follow these steps to get the project running on your local machine:
