@@ -28,13 +28,19 @@ A modern, full-stack web application built with **Laravel 12**, **React**, and *
 
 ![Role Management](roles.PNG)
 *Role Management Page*
+
+
 ![Role Edit](EditRole.PNG)
 *Role Edit Page*
 
+
 ![User Management](users.PNG)
 *User Management Page*
+
+
 ![User Edit](edituser.PNG)
 *Edit User Page*
+
 
 ## 💻 Installation & Local Setup
 
